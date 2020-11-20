@@ -2,7 +2,7 @@ from baidu_index.utils import test_cookies
 from baidu_index import config
 from baidu_index import BaiduIndex, ExtendedBaiduIndex
 
-cookies = """这里放cookie"""
+cookies = """HRManRRWWN1fjhXM0NuVzhvTEp2Y05DangxdXFodDR-ckwxMk5yYjF3bHBYTHRmSVFBQUFBJCQAAAAAAAAAAAEAAAAkUMC8scy4572yzuTMwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGnPk19pz5NfT"""
 
 if __name__ == "__main__":
     # 测试cookies是否配置正确
